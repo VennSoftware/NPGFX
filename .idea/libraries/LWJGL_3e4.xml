@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="LWJGL-3e4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/joml-1.10.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-assimp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-stb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-assimp-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-glfw-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-openal-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-opengl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-stb-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/vendor/joml-1.10.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/joml-1.10.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-assimp-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-glfw-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-openal-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-opengl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/lwjgl-stb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
